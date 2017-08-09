@@ -26,3 +26,14 @@ OS identifying:
 nmap -O 10.0.0.10
 ```
 
+attempt to connect to the SMB service:
+
+```
+nmap 10.17.140.100 --script smb-os-discovery.nse
+```
+
+DNS zone transfer NSE script
+
+```
+nmap --script=dns-zone-transfer -p 53	nop.cat 
+```

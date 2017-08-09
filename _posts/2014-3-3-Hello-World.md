@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: site's up
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+this is about a network engineer in his 30s trying to steer toward the infosec world. starting with offensive security's oscp certification. i'll post some experiences during my path until the exam.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 

@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+interested in networking, tcp/ip, dwdm, pentesting, mobile security,...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[0xDCC@nop.cat](mailto:0xdcc@nop.cat)

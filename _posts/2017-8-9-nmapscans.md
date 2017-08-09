@@ -1,6 +1,6 @@
 ---
 layout: post
-title: nmap scans
+title: useful nmap scans
 ---
 network sweeping:
 

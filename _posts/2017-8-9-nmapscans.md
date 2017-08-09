@@ -5,7 +5,7 @@ title: useful nmap scans
 network sweeping:
 
 ```
-nmap -sn	192.168.11.200-250
+nmap -sn 192.168.11.200-250
 ```
 scan for the top 20 TCP ports and save output in a file:
 

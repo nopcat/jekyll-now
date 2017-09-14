@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-interested in networking, tcp/ip, dwdm, pentesting, mobile security,...
+interested in pentesting, networking, reverse engineering, mobile security,...
 
 ### Contact me
 

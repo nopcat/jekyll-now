@@ -4,9 +4,9 @@ title: useful nmap scans
 ---
 enumerate and find as much information of the top 1000 ports (recommended first scan):
 
-```
+``
 $ nmap --top-ports 1000 -T4 -sC http://nop.cat
-```
+``
 network sweeping:
 
 ```

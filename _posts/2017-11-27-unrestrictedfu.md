@@ -12,4 +12,4 @@ copy image address results in the following url being copied to our clipboard: h
 
 
 
-![url to execute](https://github.com/nopcat/nopcat.github.io/raw/master/images/url.png)
+![url to execute](https://raw.githubusercontent.com/nopcat/nopcat.github.io/master/images/url.png)

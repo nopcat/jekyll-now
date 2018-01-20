@@ -1,5 +1,7 @@
 WHAT THE AVERAGE PERSON DOESN’T GET ABOUT BITCOIN — PHILOSOPHICAL ARGUMENT
 
+extract from Andrian Iliopoulos' https://hackernoon.com/understanding-bitcoin-6816b85deb0c
+
 On the surface, Bitcoin is a digital currency. For when people get interested in it they do so because they see it as a form of investment or as an alternative payment method. However, when one starts to dive deeper into the idea of what Bitcoin represents, one can see something quite groundbreaking. One can see the future of humanity.
 
 If you take a look at our history as species, you will realize that our progress is predicated upon the progress of our governing systems. What we are constantly trying to achieve is the optimization of our societies in order to reach a state of universal equality and dissipation of suffering. We have tried monarchy, oligarchy, democracy, communism, and other forms of governance and none of them have lived up to our expectations. Our ideal political system is none of that.
